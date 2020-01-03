@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Hello world!</title>
+	<atom:link href="http://www.thethemelab.com/FlatOneWP/2008/09/17/hello-world-2-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.thethemelab.com/FlatOneWP/2008/09/17/hello-world-2-2/</link>
+	<description>Sales and Marketing Landing Page</description>
+	<lastBuildDate>Sat, 01 Feb 2014 13:15:19 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.13</generator>
+	<item>
+		<title>By: admin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/17/hello-world-2-2/#comment-17</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:13:50 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.wpcoder.com/dan/wordpress/?p=1#comment-17</guid>
+		<description><![CDATA[Howdy! This is an admin comment.]]></description>
+		<content:encoded><![CDATA[<p>Howdy! This is an admin comment.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mr WordPress</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/17/hello-world-2-2/#comment-16</link>
+		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 21:53:25 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.wpcoder.com/dan/wordpress/?p=1#comment-16</guid>
+		<description><![CDATA[Hi, this is a comment.&lt;br /&gt;To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></description>
+		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

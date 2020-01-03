@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for FlatOne</title>
+	<atom:link href="http://www.thethemelab.com/FlatOneWP/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.thethemelab.com/FlatOneWP</link>
+	<description>Sales and Marketing Landing Page</description>
+	<lastBuildDate>Sat, 01 Feb 2014 13:15:19 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.13</generator>
+	<item>
+		<title>Comment on Hello world! by Mr WordPress</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2014/02/01/hello-world/#comment-1</link>
+		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
+		<pubDate>Sat, 01 Feb 2014 13:15:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thethemelab.com/FlatOneWP/?p=1#comment-1</guid>
+		<description><![CDATA[Hi, this is a comment.
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></description>
+		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Another Post with Everything In It by Dan Philibin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/17/another-post-with-everything-in-it/#comment-12</link>
+		<dc:creator><![CDATA[Dan Philibin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:20:13 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.wpcoder.com/dan/wordpress/?p=53#comment-12</guid>
+		<description><![CDATA[Here is a non-admin comment.
+
+It has multiple lines, some &lt;code&gt;code&lt;/code&gt;, and a bit more text.]]></description>
+		<content:encoded><![CDATA[<p>Here is a non-admin comment.</p>
+<p>It has multiple lines, some <code>code</code>, and a bit more text.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on A Post With Everything In It by Dan Philibin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/a-post-with-everything-in-it/#comment-15</link>
+		<dc:creator><![CDATA[Dan Philibin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:19:42 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=63#comment-15</guid>
+		<description><![CDATA[Here is a non-admin comment.
+
+It has multiple lines, some &lt;code&gt;code&lt;/code&gt;, and a bit more text.]]></description>
+		<content:encoded><![CDATA[<p>Here is a non-admin comment.</p>
+<p>It has multiple lines, some <code>code</code>, and a bit more text.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Quotes Time! by Dan Philibin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/quotes-time/#comment-13</link>
+		<dc:creator><![CDATA[Dan Philibin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:19:27 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=61#comment-13</guid>
+		<description><![CDATA[Here is a non-admin comment.
+
+It has multiple lines, some &lt;code&gt;code&lt;/code&gt;, and a bit more text.]]></description>
+		<content:encoded><![CDATA[<p>Here is a non-admin comment.</p>
+<p>It has multiple lines, some <code>code</code>, and a bit more text.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on A Post With an Ordered List by Dan Philibin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/a-post-with-an-ordered-list/#comment-9</link>
+		<dc:creator><![CDATA[Dan Philibin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:18:11 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=55#comment-9</guid>
+		<description><![CDATA[Here is a non-admin comment.
+
+It has multiple lines, some &lt;code&gt;code&lt;/code&gt;, and a bit more text. Alternating content so I don&#039;t get caught spamming ;)]]></description>
+		<content:encoded><![CDATA[<p>Here is a non-admin comment.</p>
+<p>It has multiple lines, some <code>code</code>, and a bit more text. Alternating content so I don&#8217;t get caught spamming 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on A Post With an Ordered List by Dan Philibin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/a-post-with-an-ordered-list/#comment-8</link>
+		<dc:creator><![CDATA[Dan Philibin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:17:42 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=55#comment-8</guid>
+		<description><![CDATA[Here is a non-admin comment.
+
+It has multiple lines, some &lt;code&gt;code&lt;/code&gt;, and a bit more text.]]></description>
+		<content:encoded><![CDATA[<p>Here is a non-admin comment.</p>
+<p>It has multiple lines, some <code>code</code>, and a bit more text.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on A Simple Post with Text by Dan Philibin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/08/02/a-simple-post-with-text/#comment-3</link>
+		<dc:creator><![CDATA[Dan Philibin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:16:35 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=22#comment-3</guid>
+		<description><![CDATA[Here is a non-admin comment.
+
+It has multiple lines, some &lt;code&gt;code&lt;/code&gt;, and a bit more text.]]></description>
+		<content:encoded><![CDATA[<p>Here is a non-admin comment.</p>
+<p>It has multiple lines, some <code>code</code>, and a bit more text.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on A Post With an Unordered List by Dan Philibin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/a-post-with-an-unordered-list/#comment-6</link>
+		<dc:creator><![CDATA[Dan Philibin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:16:01 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=50#comment-6</guid>
+		<description><![CDATA[Here is a non-admin comment.
+
+It has multiple lines, some &lt;code&gt;code&lt;/code&gt;, and a bit more text.]]></description>
+		<content:encoded><![CDATA[<p>Here is a non-admin comment.</p>
+<p>It has multiple lines, some <code>code</code>, and a bit more text.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on A Post With an Unordered List by admin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/a-post-with-an-unordered-list/#comment-5</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:14:05 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=50#comment-5</guid>
+		<description><![CDATA[Howdy! This is an admin comment.]]></description>
+		<content:encoded><![CDATA[<p>Howdy! This is an admin comment.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on A Post With a Right-Aligned Image by admin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/a-post-with-a-right-aligned-image/#comment-7</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:14:02 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=53#comment-7</guid>
+		<description><![CDATA[Howdy! This is an admin comment.]]></description>
+		<content:encoded><![CDATA[<p>Howdy! This is an admin comment.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

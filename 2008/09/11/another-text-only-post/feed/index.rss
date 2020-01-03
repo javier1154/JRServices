@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Another Text-Only Post</title>
+	<atom:link href="http://www.thethemelab.com/FlatOneWP/2008/09/11/another-text-only-post/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/another-text-only-post/</link>
+	<description>Sales and Marketing Landing Page</description>
+	<lastBuildDate>Sat, 01 Feb 2014 13:15:19 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.13</generator>
+	<item>
+		<title>By: admin</title>
+		<link>http://www.thethemelab.com/FlatOneWP/2008/09/11/another-text-only-post/#comment-10</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2008 22:13:58 +0000</pubDate>
+		<guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=57#comment-10</guid>
+		<description><![CDATA[Howdy! This is an admin comment.]]></description>
+		<content:encoded><![CDATA[<p>Howdy! This is an admin comment.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
